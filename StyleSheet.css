@@ -26,7 +26,7 @@ img {
   padding: 8px;
 }
 body {
-		background-image: url(https://lh3.googleusercontent.com/JR6sfuMa0jnltgKx0n4OpqMPx0_DKF1WR82LaMVDz9yuecWvJAZZXpV7J8Ijqsu8ck7ww3hugUD04AIdFVfYi9FGfje6IL4Iiv6-v7J71d-2UKUs--x8z8aZ18-VuIk-THS7BbkEbtVFtz4SOjgCT5fdNO4YfjLSbt2TyH_7h1UvfeWKGP_YpCyQK3Cz9MICGwqVuCIB4UozpfxpqEV9ipVICoI1ClOeDqX3jJy0QczIjvjGyqkIS7IxiBUOntEMfpw1LlmhUUKeOlo5x2kC0OwkwyClX3oW2-pZxYjFhniBH_-GvidiMMgdWU50ZnW1icfYmtVw4JuzhFHGhrTsbiQ-F3Gy4-zbFEO5xhimI9LEqiKcp1Yqf5wwSEZ3qlpEy9iHf6RuXMaJ7LqCnZL6WEjDLLkGLyPKveoJCg_gfLS54wT73DWVtCXIU8WzOEC9b3NW9ybBmCcbOTUN3U-_hMIKuFCUH3jdW7ulk1bHA7XJW2Y94c2zrGXYM_WM_Ff2NwTgyn-R7IpCd8LJ0FVzptL50RKuVaE83izwu0Q-XMgLs-L_NteldJWMtErZqj9bnMmM=w1026-h684-no);
+		background-image: ./Background.jpg
 		font-family: Avenir;
 		margin-top: 50px;
 		margin-right: 200px;
@@ -41,7 +41,7 @@ h2 {
 	margin-bottom: 0px;
 
 .footer{
-	text-align: center;
+	image-align: center;
 }
 
 
