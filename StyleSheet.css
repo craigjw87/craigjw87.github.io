@@ -26,8 +26,8 @@ img {
   padding: 8px;
 }
 body {
-		background-image: ./Background.jpg
-		font-family: Avenir;
+		background-image: "./Background copy.jpg";
+		font-family: Avenir; sans-serif;
 		margin-top: 50px;
 		margin-right: 200px;
 		margin-bottom: 50px;
